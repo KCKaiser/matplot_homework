@@ -1,0 +1,22 @@
+        Given the current data, the only two drugs that led to the decrease in tumor size volume over a period of 45 days are Capomulin and 
+    Ramicane. The tumor size under the treatment of all the other drugs grew over time, including the placebo treatment, as seen as the first 
+    line graph and the final summary bar graph. In fact, some of the drugs led to tumor sizes that are on average larger than those of the 
+    placebo treatment, most notably Ketapril. Further testing is needed to confirm whether this increase in tumor size in certain drugs 
+    (Ketapril, Naftisol, Stelasyn) is significant and whether these drugs do indeed cause tumor growth compared to the placebo. Likewise, there 
+    are some drugs (Ceftamin, Infubinol, Propriva, Zoniferol) that did not decrease tumor sizes, but did lead to slower tumor growth in mice 
+    compared to the placebo. It is possible that these drugs do indeed slow down the tumor growth rate, but it is difficult to confirm without 
+    further data.
+
+        While Capomulin and Ramicane were not able to eliminate metastasis completely in mice, according to the second line graph they were the
+    most effective drugs in lessening the chance for metastasis, with Ramicane being more effective than Capomulin. Interestingly, with the 
+    exception of Ketapril, all the drugs resulted in lower average number of metastatiic sites compared to the placebo despite the fact that 
+    some of the drugs did result in larger tumor volume averages. It is possible that these drugs are more effective in preventing the spread 
+    of cancer cells to other sites than preventing the growth of tumors.
+
+        Similarly, Capomulin and Ramicane were not able to prevent mortality in the mice, and had the highest survival rates compared to the 
+    other drugs. In fact, there is a large gap between the survival rates of Capomulin and Ramicane and the other drugs, suggesting a 
+    significant difference in mortality. Propriva resulted in the lowest survival percentage average despite not having the largest tumor 
+    volume and growth and the largest number of metastasis sites. It is possible that there are other causes for mortality in the mice besides
+    cancer- for example it is possible that Propriva causes fatal side effects in mice. Naftisol and Infubinol both also resulted in lower 
+    survival percentages than the placebo even though they had lower average final number of metastsis sites than the placebo. 
+    
